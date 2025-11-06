@@ -1,3 +1,3 @@
 # Hi there 👋
 
-Visit [my site](https://babichgh.github.io) to find information about me
+Visit [my site](https://babich.vercel.app/) to find information about me
